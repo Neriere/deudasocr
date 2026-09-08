@@ -1,0 +1,6 @@
+{
+  "name": "Dofus Unity Combat Sniffer & Analyzer",
+  "description": "Herramienta de análisis de paquetes TCP 5555 y decodificación de combates (Jugadores, XP, Kamas y Botín DofusDB) para Dofus Unity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

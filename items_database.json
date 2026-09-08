@@ -1,0 +1,596 @@
+{
+  "17123": {
+    "name": "Carne picada",
+    "level": 10,
+    "iconId": 175008,
+    "iconUrl": "https://api.dofusdb.fr/img/items/175008.png"
+  },
+  "17361": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "30828": {
+    "name": "Bunihima",
+    "level": 1,
+    "iconId": 6757,
+    "iconUrl": "https://api.dofusdb.fr/img/items/6757.png"
+  },
+  "17124": {
+    "name": "Carne manida",
+    "level": 20,
+    "iconId": 63348,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63348.png"
+  },
+  "17125": {
+    "name": "Chicha manida",
+    "level": 20,
+    "iconId": 63414,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63414.png"
+  },
+  "17126": {
+    "name": "Carne adulterada",
+    "level": 30,
+    "iconId": 63491,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63491.png"
+  },
+  "17127": {
+    "name": "Chicha adulterada",
+    "level": 30,
+    "iconId": 63492,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63492.png"
+  },
+  "17128": {
+    "name": "Carne industrial",
+    "level": 40,
+    "iconId": 63411,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63411.png"
+  },
+  "17129": {
+    "name": "Chicha industrial",
+    "level": 40,
+    "iconId": 63412,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63412.png"
+  },
+  "17130": {
+    "name": "Carne tierna",
+    "level": 50,
+    "iconId": 63483,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63483.png"
+  },
+  "17131": {
+    "name": "Chicha tierna",
+    "level": 50,
+    "iconId": 63484,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63484.png"
+  },
+  "17132": {
+    "name": "Carne corrompida",
+    "level": 60,
+    "iconId": 63420,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63420.png"
+  },
+  "17133": {
+    "name": "Chicha corrompida",
+    "level": 60,
+    "iconId": 63421,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63421.png"
+  },
+  "6897": {
+    "name": "Pluma de pío azul",
+    "level": 13,
+    "iconId": 53114,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53114.png"
+  },
+  "6898": {
+    "name": "Pluma de pío violeta",
+    "level": 13,
+    "iconId": 53115,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53115.png"
+  },
+  "6899": {
+    "name": "Pluma de pío verde",
+    "level": 13,
+    "iconId": 53116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53116.png"
+  },
+  "6900": {
+    "name": "Pluma de pío rojo",
+    "level": 13,
+    "iconId": 53117,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53117.png"
+  },
+  "6902": {
+    "name": "Pluma de pío amarillo",
+    "level": 13,
+    "iconId": 53118,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53118.png"
+  },
+  "6903": {
+    "name": "Pluma de pío rosa",
+    "level": 14,
+    "iconId": 53119,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53119.png"
+  },
+  "383": {
+    "name": "Cuerno de jalatín",
+    "level": 26,
+    "iconId": 47055,
+    "iconUrl": "https://api.dofusdb.fr/img/items/47055.png"
+  },
+  "885": {
+    "name": "Lana de jalatín negro",
+    "level": 26,
+    "iconId": 57210,
+    "iconUrl": "https://api.dofusdb.fr/img/items/57210.png"
+  },
+  "1788": {
+    "name": "Raya de Farle",
+    "level": 130,
+    "iconId": 41300,
+    "iconUrl": "https://api.dofusdb.fr/img/items/41300.png"
+  },
+  "1789": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2455": {
+    "name": "Sangre de jalató",
+    "level": 19,
+    "iconId": 15499,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15499.png"
+  },
+  "887": {
+    "name": "Cuero de stropajo",
+    "level": 36,
+    "iconId": 25156,
+    "iconUrl": "https://api.dofusdb.fr/img/items/25156.png"
+  },
+  "888": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "385": {
+    "name": "Baba de jalató",
+    "level": 7,
+    "iconId": 15057,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15057.png"
+  },
+  "1790": {
+    "name": "Gobio kesta",
+    "level": 1,
+    "iconId": 41302,
+    "iconUrl": "https://api.dofusdb.fr/img/items/41302.png"
+  },
+  "886": {
+    "name": "Cuero de Jalató Real",
+    "level": 30,
+    "iconId": 56535,
+    "iconUrl": "https://api.dofusdb.fr/img/items/56535.png"
+  },
+  "2471": {
+    "name": "Gelaturón",
+    "level": 60,
+    "iconId": 10032,
+    "iconUrl": "https://api.dofusdb.fr/img/items/10032.png"
+  },
+  "1681": {
+    "name": "Piel pachucha",
+    "level": 13,
+    "iconId": 59391,
+    "iconUrl": "https://api.dofusdb.fr/img/items/59391.png"
+  },
+  "1682": {
+    "name": "Corteza de Liroye Merlín",
+    "level": 78,
+    "iconId": 96542,
+    "iconUrl": "https://api.dofusdb.fr/img/items/96542.png"
+  },
+  "1683": {
+    "name": "Saco de patatas claro",
+    "level": 42,
+    "iconId": 15243,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15243.png"
+  },
+  "1684": {
+    "name": "Saco de patatas oscuro",
+    "level": 42,
+    "iconId": 15244,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15244.png"
+  },
+  "1685": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "129": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "287": {
+    "name": "Semillas de sésamo",
+    "level": 1,
+    "iconId": 58003,
+    "iconUrl": "https://api.dofusdb.fr/img/items/58003.png"
+  },
+  "7010": {
+    "name": "Piedra de alma llena",
+    "level": 1,
+    "iconId": 85001,
+    "iconUrl": "https://api.dofusdb.fr/img/items/85001.png"
+  },
+  "7011": {
+    "name": "Capa del Deseo Pelotero",
+    "level": 67,
+    "iconId": 17083,
+    "iconUrl": "https://api.dofusdb.fr/img/items/17083.png"
+  },
+  "7012": {
+    "name": "La Bostabola",
+    "level": 77,
+    "iconId": 1087,
+    "iconUrl": "https://api.dofusdb.fr/img/items/1087.png"
+  },
+  "282": {
+    "name": "Frasco de cuidados superiores",
+    "level": 60,
+    "iconId": 12039,
+    "iconUrl": "https://api.dofusdb.fr/img/items/12039.png"
+  },
+  "1626": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2246": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2247": {
+    "name": "Pluma de Tofu Real",
+    "level": 120,
+    "iconId": 53413,
+    "iconUrl": "https://api.dofusdb.fr/img/items/53413.png"
+  },
+  "3181": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "3182": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "3183": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "3184": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2255": {
+    "name": "Informe del espía",
+    "level": 1,
+    "iconId": 24055,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24055.png"
+  },
+  "2256": {
+    "name": "Carcasa de rata de alcantarillas",
+    "level": 1,
+    "iconId": 24121,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24121.png"
+  },
+  "2166": {
+    "name": "Muestra de lava",
+    "level": 1,
+    "iconId": 24037,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24037.png"
+  },
+  "2167": {
+    "name": "Muestra de lava",
+    "level": 1,
+    "iconId": 24037,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24037.png"
+  },
+  "2168": {
+    "name": "Esbozo de informe",
+    "level": 1,
+    "iconId": 24055,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24055.png"
+  },
+  "2460": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2461": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "1798": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "1799": {
+    "name": "Kralamar único",
+    "level": 90,
+    "iconId": 41311,
+    "iconUrl": "https://api.dofusdb.fr/img/items/41311.png"
+  },
+  "1800": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2175": {
+    "name": "Amenaza del intendente",
+    "level": 1,
+    "iconId": 24050,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24050.png"
+  },
+  "2176": {
+    "name": "Dirección de Rimaraf",
+    "level": 1,
+    "iconId": 24050,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24050.png"
+  },
+  "2177": {
+    "name": "Broche de Danathor",
+    "level": 1,
+    "iconId": 24069,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24069.png"
+  },
+  "2212": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2213": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2214": {
+    "name": "Yopuka Attitude",
+    "level": 1,
+    "iconId": 31004,
+    "iconUrl": "https://api.dofusdb.fr/img/items/31004.png"
+  },
+  "2215": {
+    "name": "Xelor Attitude",
+    "level": 1,
+    "iconId": 31005,
+    "iconUrl": "https://api.dofusdb.fr/img/items/31005.png"
+  },
+  "2216": {
+    "name": "Sadida Attitude",
+    "level": 1,
+    "iconId": 31006,
+    "iconUrl": "https://api.dofusdb.fr/img/items/31006.png"
+  },
+  "2217": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2218": {
+    "name": "Feca Attitude",
+    "level": 1,
+    "iconId": 31007,
+    "iconUrl": "https://api.dofusdb.fr/img/items/31007.png"
+  },
+  "2280": {
+    "name": "Pajita vampiresca",
+    "level": 43,
+    "iconId": 15433,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15433.png"
+  },
+  "2281": {
+    "name": "Tejido de orondo",
+    "level": 86,
+    "iconId": 15982,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15982.png"
+  },
+  "2282": {
+    "name": "Mechón de pelo canoso",
+    "level": 46,
+    "iconId": 15435,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15435.png"
+  },
+  "2283": {
+    "name": "Ojo de kwoan",
+    "level": 35,
+    "iconId": 109436,
+    "iconUrl": "https://api.dofusdb.fr/img/items/109436.png"
+  },
+  "2284": {
+    "name": "Nota de Harry Stóteles",
+    "level": 1,
+    "iconId": 24055,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24055.png"
+  },
+  "1745": {
+    "name": "Jeringuilla de veterinario",
+    "level": 1,
+    "iconId": 24031,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24031.png"
+  },
+  "1746": {
+    "name": "Sangre del wabbit GM",
+    "level": 1,
+    "iconId": 24032,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24032.png"
+  },
+  "1747": {
+    "name": "Análisis de sangre del wabbit GM",
+    "level": 1,
+    "iconId": 24033,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24033.png"
+  },
+  "19649": {
+    "name": "Muestra de carne contaminada",
+    "level": 20,
+    "iconId": 63408,
+    "iconUrl": "https://api.dofusdb.fr/img/items/63408.png"
+  },
+  "2485": {
+    "name": "Vegasombrero",
+    "level": 40,
+    "iconId": 16045,
+    "iconUrl": "https://api.dofusdb.fr/img/items/16045.png"
+  },
+  "2486": {
+    "name": "Casco dañado",
+    "level": 56,
+    "iconId": 15944,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15944.png"
+  },
+  "2487": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2488": {
+    "name": "Vísceras de scorbuto",
+    "level": 65,
+    "iconId": 15445,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15445.png"
+  },
+  "2489": {
+    "name": "Vegacapa",
+    "level": 56,
+    "iconId": 17049,
+    "iconUrl": "https://api.dofusdb.fr/img/items/17049.png"
+  },
+  "2490": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "2491": {
+    "name": "Ojo de arakmutada",
+    "level": 13,
+    "iconId": 109516,
+    "iconUrl": "https://api.dofusdb.fr/img/items/109516.png"
+  },
+  "303": {
+    "name": "Madera de fresno",
+    "level": 1,
+    "iconId": 38017,
+    "iconUrl": "https://api.dofusdb.fr/img/items/38017.png"
+  },
+  "460": {
+    "name": "Madera de roble",
+    "level": 60,
+    "iconId": 38092,
+    "iconUrl": "https://api.dofusdb.fr/img/items/38092.png"
+  },
+  "2357": {
+    "name": "Madera de olivioleta",
+    "level": 90,
+    "iconId": 38481,
+    "iconUrl": "https://api.dofusdb.fr/img/items/38481.png"
+  },
+  "2358": {
+    "name": "Madera de bombú",
+    "level": 70,
+    "iconId": 38482,
+    "iconUrl": "https://api.dofusdb.fr/img/items/38482.png"
+  },
+  "461": {
+    "name": "Madera de tejo",
+    "level": 100,
+    "iconId": 38094,
+    "iconUrl": "https://api.dofusdb.fr/img/items/38094.png"
+  },
+  "2359": {
+    "name": "Broche Hoticili Ufot",
+    "level": 1,
+    "iconId": 24069,
+    "iconUrl": "https://api.dofusdb.fr/img/items/24069.png"
+  },
+  "33": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "1": {
+    "name": "Puré pic-feil",
+    "level": 1,
+    "iconId": 15116,
+    "iconUrl": "https://api.dofusdb.fr/img/items/15116.png"
+  },
+  "1673": {
+    "name": "Pata de arakna mágica",
+    "level": 18,
+    "iconId": 103392,
+    "iconUrl": "https://api.dofusdb.fr/img/items/103392.png"
+  },
+  "365": {
+    "name": "Pata de arakna",
+    "level": 18,
+    "iconId": 103035,
+    "iconUrl": "https://api.dofusdb.fr/img/items/103035.png"
+  },
+  "394": {
+    "name": "Avellana",
+    "level": 26,
+    "iconId": 58066,
+    "iconUrl": "https://api.dofusdb.fr/img/items/58066.png"
+  },
+  "1690": {
+    "name": "Pelos de minilubo",
+    "level": 26,
+    "iconId": 54554,
+    "iconUrl": "https://api.dofusdb.fr/img/items/54554.png"
+  },
+  "31518": {
+    "name": "Esquíritu inferior",
+    "level": 1,
+    "iconId": 74084,
+    "iconUrl": "https://api.dofusdb.fr/img/items/74084.png"
+  },
+  "407": {
+    "name": "Pincho de prespic",
+    "level": 26,
+    "iconId": 47134,
+    "iconUrl": "https://api.dofusdb.fr/img/items/47134.png"
+  },
+  "1672": {
+    "name": "Pelos de Darit",
+    "level": 26,
+    "iconId": 54555,
+    "iconUrl": "https://api.dofusdb.fr/img/items/54555.png"
+  }
+}

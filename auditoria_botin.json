@@ -1,0 +1,96 @@
+{
+  "config": {
+    "my_character_name": "Nentu"
+  },
+  "players": {
+    "73373319463": {
+      "key": "73373319463",
+      "char_id": 73373319463,
+      "name": "Nentu",
+      "is_me": true,
+      "combats_count": 5,
+      "last_seen": "2026-09-07 23:13:38",
+      "pending_drops": {}
+    }
+  },
+  "settlements": [
+    {
+      "date": "2026-09-07 22:49:24",
+      "playerName": "Nentu",
+      "totalUnits": 42,
+      "summary": "Carne manida x9, Pata de arakna mágica x1, Pata de arakna x4, Carne adulterada x9, Avellana x6, Pelos de minilubo x3, Esquíritu inferior x3, Pincho de prespic x6, Pelos de Darit x1"
+    },
+    {
+      "date": "2026-09-07 23:13:16",
+      "playerName": "Nentu",
+      "totalUnits": 9,
+      "summary": "Carne manida x1, Pata de arakna mágica x1, Pata de arakna x1, Carne adulterada x3, Avellana x1, Pelos de minilubo x2"
+    },
+    {
+      "date": "2026-09-07 23:13:46",
+      "playerName": "Nentu",
+      "totalUnits": 14,
+      "summary": "Esquíritu inferior x1, Carne manida x3, Pata de arakna x1, Carne adulterada x3, Avellana x1, Pincho de prespic x2, Pelos de Darit x1, Pelos de minilubo x2"
+    }
+  ],
+  "last_combat": {
+    "timestamp": "2026-09-07 23:13:38",
+    "timeStr": "23:13:38",
+    "fighters": [
+      {
+        "name": "Nentu",
+        "is_me": true,
+        "drops": [
+          {
+            "itemId": 31518,
+            "name": "Esquíritu inferior",
+            "iconUrl": "https://api.dofusdb.fr/img/items/74084.png",
+            "quantity": 1
+          },
+          {
+            "itemId": 17124,
+            "name": "Carne manida",
+            "iconUrl": "https://api.dofusdb.fr/img/items/63348.png",
+            "quantity": 3
+          },
+          {
+            "itemId": 365,
+            "name": "Pata de arakna",
+            "iconUrl": "https://api.dofusdb.fr/img/items/103035.png",
+            "quantity": 1
+          },
+          {
+            "itemId": 17126,
+            "name": "Carne adulterada",
+            "iconUrl": "https://api.dofusdb.fr/img/items/63491.png",
+            "quantity": 3
+          },
+          {
+            "itemId": 394,
+            "name": "Avellana",
+            "iconUrl": "https://api.dofusdb.fr/img/items/58066.png",
+            "quantity": 1
+          },
+          {
+            "itemId": 407,
+            "name": "Pincho de prespic",
+            "iconUrl": "https://api.dofusdb.fr/img/items/47134.png",
+            "quantity": 2
+          },
+          {
+            "itemId": 1672,
+            "name": "Pelos de Darit",
+            "iconUrl": "https://api.dofusdb.fr/img/items/54555.png",
+            "quantity": 1
+          },
+          {
+            "itemId": 1690,
+            "name": "Pelos de minilubo",
+            "iconUrl": "https://api.dofusdb.fr/img/items/54554.png",
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+}
